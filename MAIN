@@ -102,6 +102,7 @@ public class Game {
                         System.out.println("Sorry Dealer win. Your score is "+firstTotal+ " and dealer score is "+dealerTotal);
                     } else if (dealerTotal<firstTotal){
                         System.out.println("Congratulations , you won. Your score is "+firstTotal+ " and dealer score is "+dealerTotal);
+                        Sout
                     }
                 }
             }
