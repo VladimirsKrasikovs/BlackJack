@@ -1,6 +1,6 @@
 public class Damage {
-    private int min = 10;
-    private int max = 18;
+    private int min;
+    private int max;
     public Damage(int min, int max) {
         this.min = min;
         this.max = max;
